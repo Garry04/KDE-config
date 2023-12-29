@@ -1,4 +1,4 @@
-Use Konsave to apply the config, might not apply everything so you'll have to do some of it manually such as rounded corners, nerdfetch and bashrc
+Use Konsave to apply the config, might not apply everything so you'll have to do some of it manually such as rounded corners, nerdfetch and bashrc. 
 
 
 
