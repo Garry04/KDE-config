@@ -3,7 +3,7 @@ Use Konsave to apply the config, might not apply everything so you'll have to do
 
 
 - Theme konsave file: https://drive.google.com/file/d/1EjLrKhbTR-4sYj6PKr68hY8qwLtnnv73/view?usp=sharing
-- Rounded corners: https://github.com/khanhas/ShapeCorners
+- Rounded corners: https://github.com/a-parhom/LightlyShaders
 - Nerdfetch: https://codeberg.org/thatonecalculator/nerdfetch
 - klassy: https://github.com/paulmcauley/klassy
 - konsave: https://github.com/Prayag2/konsave
