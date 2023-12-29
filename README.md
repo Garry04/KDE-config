@@ -7,4 +7,4 @@ Use Konsave to apply the config, might not apply everything so you'll have to do
 - Nerdfetch: https://codeberg.org/thatonecalculator/nerdfetch
 - klassy: https://github.com/paulmcauley/klassy
 - konsave: https://github.com/Prayag2/konsave
-- lutgen (changing wallpaper lut and matching system cololrs) https://github.com/ozwaldorf/lutgen-rs
+- lutgen (changing wallpaper lut and matching system colors) https://github.com/ozwaldorf/lutgen-rs
