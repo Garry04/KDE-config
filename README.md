@@ -2,7 +2,7 @@ Use Konsave to apply the config, might not apply everything so you'll have to do
 
 
 
-- Rounded corners (Couldn't find the exact one I was using, but this should work): [LightlyShaders](https://github.com/a-parhom/LightlyShaders)
+- Rounded corners: [LightlyShaders](https://github.com/a-parhom/LightlyShaders)
 - Nerdfetch: [nerdfetch](https://codeberg.org/thatonecalculator/nerdfetch)
 - klassy: [klassy](https://github.com/paulmcauley/klassy)
 - konsave: [konsave](https://github.com/Prayag2/konsave)
