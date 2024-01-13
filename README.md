@@ -1,6 +1,6 @@
 Use Konsave to apply the config, might not apply everything so you'll have to do some of it manually such as rounded corners, nerdfetch and bashrc. 
 
-Konsave [file](https://github.com/a-parhom/LightlyShaders](https://drive.google.com/drive/home)
+Konsave [file](https://drive.google.com/drive/home)
 
 - Rounded corners: [LightlyShaders](https://github.com/a-parhom/LightlyShaders)
 - Nerdfetch: [nerdfetch](https://codeberg.org/thatonecalculator/nerdfetch)
